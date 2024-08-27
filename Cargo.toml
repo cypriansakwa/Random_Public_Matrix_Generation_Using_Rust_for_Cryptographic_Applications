@@ -1,5 +1,5 @@
 [package]
-name = "generate_public_matrix"
+name = "Random_Public_Matrix_Generation_Using_Rust_for_Cryptographic_Applications"
 version = "0.1.0"
 edition = "2021"
 
