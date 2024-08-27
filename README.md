@@ -1,5 +1,5 @@
 ## Overview
-This Rust program generates a public matrix $\boldsymbol{A}\in\mathbb{Z}_q^{m\times n}$, with each element randomly selected from the set $\{0,1,2,\cdots,q-1\}$. The matrix $\boldsymbol{A}$ is commonly used in cryptographic protocols, including ones based on the Learning With Errors (LWE) problem. This code is an educational example of random matrix generation and its use in cryptography.
+This Rust program generates a public matrix $\boldsymbol{A}\in\mathbb{Z}_q^{m\times n}$, with each element randomly selected from the set {0,1,2,\cdots,q-1}. The matrix $\boldsymbol{A}$ is commonly used in cryptographic protocols, including ones based on the Learning With Errors (LWE) problem. This code is an educational example of random matrix generation and its use in cryptography.
 ## How It Works
 - **Parameters:**
    - **Modulus $q$:** A prime number or any integer greater than $1$.
